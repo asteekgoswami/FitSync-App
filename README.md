@@ -10,12 +10,15 @@
 
 2.Core Features for Standard Users:*
    - *Booking System:* Users can book gym slots for a specific day
+   - 
         ![Home](https://github.com/asteekgoswami/FitSync-App/assets/96569849/6ba85aab-03db-4e15-b356-902354fc4357) ![slot book](https://github.com/asteekgoswami/FitSync-App/assets/96569849/944c1426-187b-40eb-87b6-ad51fd7aa8cc)
         
    - *Exercise Tutorials:* Access a library of exercise tutorials.
+   - 
          ![exercise](https://github.com/asteekgoswami/FitSync-App/assets/96569849/9306c48b-06b9-4ebb-858c-4194f46732f8)
         
    - *E-commerce Store:* Purchase products with product tracking.
+   - 
          ![ecommerce](https://github.com/asteekgoswami/FitSync-App/assets/96569849/80854366-2daf-49fb-a9f8-84d8473fc5ff)
       
 
